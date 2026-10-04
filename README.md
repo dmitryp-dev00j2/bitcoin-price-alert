@@ -12,3 +12,5 @@ pip install -r requirements.txt
 
 The first run with no saved state will create ~/.config/bitcoin-price-alert/
 and a thresholds file. Edit that or use flags.
+
+<!-- last-checked: 2026-10-04 -->
